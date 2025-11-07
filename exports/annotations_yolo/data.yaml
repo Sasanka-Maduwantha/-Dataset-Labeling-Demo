@@ -1,0 +1,7 @@
+Train: Train.txt
+names:
+  0: rack
+  1: primary shelf
+  2: different
+  3: exterior
+path: .
